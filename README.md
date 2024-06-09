@@ -24,6 +24,7 @@ Your goal in this challenge is to implement the coding updates required to produ
 The current score report lists the student's name followed by the calculated overall grade and letter grade. Here is the existing report format:
 
 | Student | Grade | Letter Grade |
+| ------- | ----- | ------------ |
 | Sophia | 95.6 | A |
 | Andrew | 91.6 | A- |
 | Emma | 89.2 | B+ |
